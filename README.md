@@ -40,5 +40,9 @@ Here are some ideas to get you started:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 
+[twitter]: https://twitter.com/ProgrammeurWeb
+[facebook]: https://facebook.com/AlfredDagenaisWeb/
+[instagram]: https://instagram.com/alfreddagenaisweb
+[linkedin]: https://linkedin.com/in/AlfredDagenais
 <br /><br />
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adixit001&left_color=green&right_color=red)
