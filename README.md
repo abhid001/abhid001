@@ -1,4 +1,4 @@
-### Hi, I'm Abhishek - Automation Engineer 👋
+### Hola, I'm Abhishek 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fallingmeteroid/)](https://www.linkedin.com/in/fallingmeteroid/)
 [twitter]: https://twitter.com/ProgrammeurWeb
@@ -6,7 +6,7 @@
 [instagram]: https://instagram.com/alfreddagenaisweb
 
 
-I'm a Abhishek and I'd like to learn something new every day. I'm a **Bachelor in Computer Science** and currently a **Automation Developer**.
+I'm Abhishek, I currently work for [Chegg](https://www.chegg.com/) and I'd like to learn something new every day. I'm a **Bachelor in Computer Science** and currently a **Automation Developer**.
 
 ### More About Me:
 
