@@ -42,7 +42,7 @@ I currently work for [Chegg](https://www.chegg.com/) as a **Automation Developer
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📊 Analytics 
-![Tableau]([{BadgeURLHere}](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white))
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
 
