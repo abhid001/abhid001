@@ -1,9 +1,6 @@
 ### Hola, I'm Abhishek 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fallingmeteroid/)](https://www.linkedin.com/in/fallingmeteroid/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/explore_with__abhi/?hl=en)](https://www.instagram.com/explore_with__abhi/?hl=en)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/im.abhifru)](https://www.facebook.com/im.abhifru)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fallingmeteroid/)](https://www.linkedin.com/in/fallingmeteroid/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Justzz_abhi)](https://twitter.com/Justzz_abhi) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/explore_with__abhi/?hl=en)](https://www.instagram.com/explore_with__abhi/?hl=en) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/im.abhifru)](https://www.facebook.com/im.abhifru)
 
 
 
