@@ -1,9 +1,9 @@
 ### Hola, I'm Abhishek 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fallingmeteroid/)](https://www.linkedin.com/in/fallingmeteroid/)
-[twitter]: https://twitter.com/ProgrammeurWeb
-[facebook]: https://facebook.com/AlfredDagenaisWeb/
-[instagram]: https://instagram.com/alfreddagenaisweb
+[!twitter]: https://twitter.com/ProgrammeurWeb]
+[!facebook]: https://facebook.com/AlfredDagenaisWeb/]
+[![instagram]: https://instagram.com/alfreddagenaisweb]
 
 
 I'm Abhishek, I currently work for [Chegg](https://www.chegg.com/) and I'd like to learn something new every day. I'm a **Bachelor in Computer Science** and currently a **Automation Developer**.
@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 
 
 <br /><br />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adixit001&left_color=green&right_color=red)
