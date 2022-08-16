@@ -9,10 +9,10 @@ I currently work for [Chegg](https://www.chegg.com/) as a **Automation Developer
 
 ### More About Me:
 
-* 🌱 I’m currently learning ... *Machine Learning* 
+* 🌱 I’m currently learning everything 🤣
 * 🔭 I’m currently working on Edu & Financial Data
 * 👯 I’m looking to collaborate on *Automation* & *Data Science*
-* 💌 I love to extract insights out of data and automate flows.
+* 💡 I love to extract insights out of data and automate flows through innovation and new technologies.
 * 😍 My hobbies are [Photography](), [Travelling]() and [cooking]().
 * 📫 How to reach me:[abhishek.dixit070@gmail.com](mailto:abhishek.dixit070@gmail.com).
 
