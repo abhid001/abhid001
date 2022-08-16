@@ -1,9 +1,9 @@
 ### Hi, I'm Abhishek 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fallingmeteroid/)](https://www.linkedin.com/in/fallingmeteroid/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Justzz_abhi)](https://twitter.com/Justzz_abhi) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/explore_with__abhi/?hl=en)](https://www.instagram.com/explore_with__abhi/?hl=en) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/im.abhifru)](https://www.facebook.com/im.abhifru)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fallingmeteroid/)](https://www.linkedin.com/in/fallingmeteroid/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Justzz_abhi)](https://twitter.com/Justzz_abhi) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/explore_with__abhi/?hl=en)](https://www.instagram.com/explore_with__abhi/?hl=en) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/im.abhifru)](https://www.facebook.com/im.abhifru)
 
 I currently work for [Chegg](https://www.chegg.com/) as a **Automation Developer**. I'd like to learn something new every day. I'm a **Bachelor in Computer Science**. I love to code and 
 
@@ -21,9 +21,9 @@ I currently work for [Chegg](https://www.chegg.com/) as a **Automation Developer
 
 ### 🚀 Languages
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ### 🧩 Libraries & Framework
 
