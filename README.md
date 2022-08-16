@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
-    [JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]
-    [Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)
+    <img src="https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)">
+    <img src="http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F">
     
 - Libraries : <br />
     [Pandas] (https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
