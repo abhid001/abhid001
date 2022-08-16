@@ -1,32 +1,21 @@
 ### Hola, I'm Abhishek 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fallingmeteroid/)](https://www.linkedin.com/in/fallingmeteroid/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Justzz_abhi)](https://twitter.com/Justzz_abhi) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/explore_with__abhi/?hl=en)](https://www.instagram.com/explore_with__abhi/?hl=en) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/im.abhifru)](https://www.facebook.com/im.abhifru)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fallingmeteroid/)](https://www.linkedin.com/in/fallingmeteroid/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Justzz_abhi)](https://twitter.com/Justzz_abhi) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/explore_with__abhi/?hl=en)](https://www.instagram.com/explore_with__abhi/?hl=en) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/im.abhifru)](https://www.facebook.com/im.abhifru)
 
-
-
-I'm Abhishek, I currently work for [Chegg](https://www.chegg.com/) and I'd like to learn something new every day. I'm a **Bachelor in Computer Science** and currently a **Automation Developer**.
+I currently work for [Chegg](https://www.chegg.com/) as a **Automation Developer**. I'd like to learn something new every day. I'm a **Bachelor in Computer Science**. I love to code and 
 
 ### More About Me:
 
 * 🌱 I’m currently learning ... *Machine Learning* 
+* 🔭 I’m currently working on Edu & Financial Data
 * 👯 I’m looking to collaborate on *Automation* & *Data Science*
+* 💌 I love to extract insights out of data and automate flows.
 * 😍 My hobbies are [Photography](), [Travelling]() and [cooking]().
-* 💌 Contact me at [abhishek.dixit070@gmail.com](mailto:abhishek.dixit070@gmail.com).
+* 📫 How to reach me:[abhishek.dixit070@gmail.com](mailto:abhishek.dixit070@gmail.com).
 
-<!--
-**abhid001/abhid001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## ⚡ Tech Stack
 
@@ -40,14 +29,21 @@ Here are some ideas to get you started:
 ### 🧩 Libraries & Framework
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Databricks](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Jupiter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 
 ### 🧑🏻‍💻 Databases
 
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+
+### 📊 Analytics 
+![Tableau]([{BadgeURLHere}](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white))
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -60,6 +56,11 @@ Here are some ideas to get you started:
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
+
+### 👩‍💻 IDE
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ### 💻 Workspace
 
