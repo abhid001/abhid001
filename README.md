@@ -8,7 +8,8 @@ I'm Abhishek, I currently work for [Chegg](https://www.chegg.com/) and I'd like 
 
 ### More About Me:
 
-* 🌱 I’m currently learning ... *Machine Learning* & *Data Science*
+* 🌱 I’m currently learning ... *Machine Learning* 
+* Expertise in *Automation* & *Data Science*
 * 😍 My hobbies are [Photography](), [Travelling]() and [cooking]().
 * 💌 Contact me at [abhishek.dixit070@gmail.com](mailto:abhishek.dixit070@gmail.com).
 
