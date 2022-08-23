@@ -76,8 +76,8 @@ I currently work for [Chegg](https://www.chegg.com/) as a **Automation Developer
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adixit001&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adixit001&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhid001&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhid001&hide_border=true&theme=radical" />
 </p>
 
 <br /><br />
