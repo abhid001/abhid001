@@ -95,10 +95,7 @@ I currently work for [Chegg](https://www.chegg.com/) as a **Automation Developer
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixit001&layout=compact&hide_border=true&theme=radical" />
 
 ---
-Reference badges: ![link](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-languages)
+![link](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-languages)
 
 ## Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abhid001&left_color=green&right_color=red)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhid001.visitor-badge&left_color=green&right_color=red)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abhid001.abhid001&left_color=green&right_color=red)
