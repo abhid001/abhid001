@@ -74,7 +74,7 @@ I currently work for [Chegg](https://www.chegg.com/) as a **Automation Developer
 
 ### Documentation
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@abhishek.dixit070)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ### Currently Learning
 
