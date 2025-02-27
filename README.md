@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/explore_with__abhi/?hl=en)](https://www.instagram.com/explore_with__abhi/?hl=en) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/im.abhifru)](https://www.facebook.com/im.abhifru)
 
-I currently work for [Chegg](https://www.chegg.com/) as a **Lead Data Engineer**. I work mostly around the data engineering activities and projects. I'd like to learn something new every day. I'm a **Bachelor in Computer Science**. I love to code and get involved in data science activities.
+I currently work for [Chegg](https://www.chegg.com/) as a **Lead Automation Engineer**. I work mostly around the end to end automation and data engineering activities. I'd like to learn something new every day. I'm a **Bachelor in Computer Science**. I love to code and get involved in QA automation and validation activities.
 
 ### More About Me:
 
